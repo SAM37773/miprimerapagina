@@ -129,6 +129,10 @@ footer {
     width: 100%;
 
 }
+.greeting {
+    text-align: center;
+
+}
 
 @media (max-width: 768px) {
     .column {
