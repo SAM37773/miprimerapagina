@@ -94,8 +94,11 @@ a {
     justify-content: center;
     gap: 20px;
     align-items: center;
+    
 }
-
+img{
+    height: 200px;
+}
 .video-container{
     padding: 10px;
     gap: 5px;
